@@ -230,28 +230,6 @@ To host and manage our MySQL database in the cloud, and to facilitate seamless i
 - [@drsNdamah](https://www.github.com/drsNdamah)
 
 
-## Contributing
-
-
-Thanks to Adam Finer for sparking my interest in Google Looker Studio and for being the project guide.
-
-If you are interested in becoming a data analyst, you can follow Adam's courses via the link below:
-
-
-🏠 JOIN THE LEARN BI ACADEMY - https://geni.us/lbi_academy
-
-🚀 BECOME A BI ANALYST - https://geni.us/lbia_biasp
-
-🏆 TAKE THE BI CONSULTANT MASTERCLASS - https://geni.us/lbia_bicm
-
-
-
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 ## Appendix
 
 Project files and queries are included in the folders included in this repository.
